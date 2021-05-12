@@ -89,7 +89,7 @@
 		"pixi.js": "^5.3.2",
 		"rxjs": "^6.6.3",
 		"smooth-scrollbar": "^8.5.2",
-		"swiper": "^6.3.3"
+		"swiper": "^6.5.1"
 	},
 	"prettier": {
 		"useTabs": true,
